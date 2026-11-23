@@ -2,7 +2,7 @@
 
 `index.html` is a single, self-contained file in the same style as CAP Comms Training. It works offline once opened, on phones and computers.
 
-**What's in it:** 7 study modules · 188-question bank (all 5 ACS areas) · Diagnostic, Checkpoint, Mini-Mock and two timed 60-question exams · random 60-question exams with either the 2026 reported mix or the ACS-10B blueprint · drill-by-area and "drill my misses" · 52 flashcards · 6 lab worksheets · METAR decoder, load factor, MSL↔AGL and recency calculators · free FAA library links · password-protected Instructor mode (lesson plan, lab answer keys, teaching techniques, exam keys).
+**What's in it:** 7 study modules with 55 detailed lessons covering all 176 ACS knowledge elements · 12 sample charts and figures (practice sectional, chart legend, data block, airspace profile, load factor, CG, traffic pattern, runway markings, lighting, fronts, thunderstorms, Remote ID) · 47-question Chart & Figure Workbook · ACS skills checklist · print/PDF the full guide · 235-question bank (all 5 ACS areas) · Diagnostic, Checkpoint, Mini-Mock and two timed 60-question exams · random 60-question exams with either the 2026 reported mix or the ACS-10B blueprint · drill-by-area and "drill my misses" · 52 flashcards · 6 lab worksheets · METAR decoder, load factor, MSL↔AGL and recency calculators · free FAA library links · password-protected Instructor mode (lesson plan, lab answer keys, teaching techniques, exam keys).
 
 **Instructor password:** `P107-INSTRUCTOR`. Change it in Instructor → Settings (stored per device).
 
